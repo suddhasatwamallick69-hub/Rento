@@ -1,0 +1,1 @@
+hello<?php /**PATH C:\xampp\htdocs\laravel_auth\resources\views/admin/about.blade.php ENDPATH**/ ?>
